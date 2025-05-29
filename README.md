@@ -1,4 +1,4 @@
-# Data-Engineer-Projects
+# Data-Engineer Projects
 # Project 1 -  Academic Insights Using Microsoft Azure ISYS 1123 Performance Survey Analysis
 ### Overview
 - Build a scalable, end-to-end solution using Microsoft Azure to analyse the 16,889 ISYS 1123 student records (2018–2024) for the qualtrics survey and uncover how socioeconomic factors influence academic success.
